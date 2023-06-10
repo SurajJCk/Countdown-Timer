@@ -37,8 +37,8 @@ var countdownDate = new Date(2023, 5, 10, 0, 0, 0);
     Voila! You will see the countdown timer showing the remaining time until your birthday.
 
 Screenshots
+[cdt](https://github.com/SurajJCk/Countdown-Timer/assets/33105027/beb59683-48fa-48a5-b542-5db603523da3)
 
-![Screenshot (355)](https://github.com/SurajJCk/Countdown-Timer/assets/33105027/07dc9c5a-cd6f-4a96-8b25-543a86216d1b)
 Contributing
 
 Contributions are welcome! If you have any improvements or new features to add, please follow these steps:
